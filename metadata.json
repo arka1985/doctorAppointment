@@ -1,0 +1,5 @@
+{
+  "name": "Doctor's Appointment Booker",
+  "description": "A web application for doctors to manage their schedule and for patients to book appointments in real-time. The doctor can set their chamber locations and available time slots for each day of the week, and view bookings as they are made. Patients can view the schedule and book an available slot by providing their details.",
+  "requestFramePermissions": []
+}
